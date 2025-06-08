@@ -32,20 +32,15 @@ def fetch_catalog_items(next_page_token=None):
 
 
 def fetch_all_catalog_items():
-    output_dir = Path("catalog_responses")
-    output_dir.mkdir(exist_ok=True)
-
+    all_items = []
     page_number = 1
     next_page_token = None
 
     while True:
         response_data = fetch_catalog_items(next_page_token)
+        all_items.extend(response_data.get("itemList", []))
 
-        output_file = output_dir / f"catalog_page_{page_number:03d}.json"
-        with open(output_file, "w", encoding="utf-8") as f:
-            json.dump(response_data, f, indent=2)
-
-        print(f"Saved page {page_number} to {output_file}")
+        print(f"Fetched page {page_number} with {len(response_data.get('itemList', []))} items")
 
         if response_data.get("lastPage", False):
             print("Reached last page")
@@ -57,6 +52,11 @@ def fetch_all_catalog_items():
             break
 
         page_number += 1
+
+    # Save merged result
+    with open("kindle_plus_books.json", "w", encoding="utf-8") as f:
+        json.dump({"itemList": all_items}, f, indent=2)
+    print(f"Saved {len(all_items)} titles to kindle_plus_books.json")
 
 
 if __name__ == "__main__":
