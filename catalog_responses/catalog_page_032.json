@@ -1,0 +1,757 @@
+{
+  "totalNumberOfResults": null,
+  "nextPageToken": "960",
+  "itemList": [
+    {
+      "itemId": "//amazon-book/B00UZ9CLY4",
+      "title": "Slither, Snake! (National Geographic Kids Readers, Pre-Reader)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/71j+ctmA4bL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B09NDXRG41",
+      "title": "Play Pretend with Elmo: Outer Space",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/51aWF+6fFwL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B087QT5Z37",
+      "title": "Marvel Adventures Spider-Man/Iron Man/Hulk: Triple Threat (Marvel Adventures: Super Heroes (2008-2010))",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91SMGPJ5oXL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B0B81ZT9GP",
+      "title": "Let's Go to Mars: Band 08/Purple (Collins Big Cat)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/71VmWU4Jt6L.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B071K9HCJR",
+      "title": "Pingu the Snowboarder (Pingu)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81weEhTi7NL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B01MSTT26W",
+      "title": "The Wind in the Willows [Kindle in Motion]",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91EXn08MIdL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B009PPL8J8",
+      "title": "Abby Cadabby's Rhyme Time (Sesame Street) (Sesame Street (Dalmatian Press))",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/51PVVzJ8EJL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B004ZACE8C",
+      "title": "Mysteries in Our National Parks: Deadly Waters: A Mystery in Everglades National Park",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/71Bo3D1beGL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00B1WPJH0",
+      "title": "Twelfth Night Paperback Book (Timeless Shakespeare)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81Tt2V9hv4L.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B0B49Y6952",
+      "title": "Blippi's Treehouse - Speed",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81cKUHE81lL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B08NWCS2DV",
+      "title": "Ms. Marvel: Army Of One (Ms. Marvel (2015-2019))",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91NPfLRYnTL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B074W9PT2M",
+      "title": "A Little Princess",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/8198VKwPi2L.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B007C6PSP2",
+      "title": "Abby in Wonderland (Sesame Street)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/61qERkmpcQL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00K4JW2UI",
+      "title": "Henny Penny: A Folk Tale Classic (Paul Galdone Classics)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81WPYHZ+4ML.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B0753GTN94",
+      "title": "Mysteries in Our National Parks: Deadly Waters: A Mystery in Everglades National Park (Mysteries in Our National Park)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91+GGw0y75L.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00QKOP1GS",
+      "title": "Rich Witch, Poor Witch",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91Q28Wpc2EL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B09XX68QWK",
+      "title": "Blippi's Treehouse - Nighttime",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/71+-dbJDjoL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B0BJSLT8MD",
+      "title": "Blippi Treehouse - Soccer",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81Mm4TvfctL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07MQR7B5V",
+      "title": "This Book Is Gray",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81zCV9SZ8QL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B0BJW4XLWS",
+      "title": "Blippi Treehouse - Birthday",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81knazrKXCL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07HQVRJCK",
+      "title": "Esme & Roy: Meet the Monsters!",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/51EttXWO6tL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00B1WS42M",
+      "title": "King Lear Paperback Book (Timeless Shakespeare)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81Pw0EwLlcL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B0721NL9CK",
+      "title": "The Things We Love (Bob the Builder)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81ZGjkgxcKL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00EA3ZY9U",
+      "title": "Pinky Dinky Doo: Pinky Stinky Doo",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/51mw1Bb3FUL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B071GPG6BJ",
+      "title": "Wendy Saves the Day (Bob the Builder)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81cU9Bkf3EL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B0B9Y5H2TH",
+      "title": "Blippi's Treehouse - Farm",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81AGQzkRobL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B01HDIOVGA",
+      "title": "Inspector Flytrap (Inspector Flytrap #1)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91CXfnrnlgL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B09XX12F4W",
+      "title": "Blippi's Treehouse - Dinosaurs",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81e+spkvtEL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B0181NOAG2",
+      "title": "Mr. Putter & Tabby Run the Race",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81BzL71yTEL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B016AHDQFC",
+      "title": "Ripley's Twists: Pirates",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91iRvhIjg5L.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    }
+  ],
+  "lastPage": false
+}

@@ -1,0 +1,757 @@
+{
+  "totalNumberOfResults": null,
+  "nextPageToken": "1350",
+  "itemList": [
+    {
+      "itemId": "//amazon-book/B085Q3S69W",
+      "title": "The Iliad (Marvel Illustrated: The Iliad (2007-2008))",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91mEXyhpARL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00BL8A9RY",
+      "title": "Which Witch is Which? (Sesame Street Series)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/61Tk1C96xjL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00MBXUNXI",
+      "title": "Sometimes You Barf (Nancy Carlson Picture Books)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91M+3IqHQeL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B009DQO6AM",
+      "title": "Venus & Serena Williams, 3rd Edition (Amazing Athletes)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81DjMvOlxTL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07X5MTHSG",
+      "title": "Marvel Action Spider-Man (2018-2019) #4",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/913BBxlJ9wL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B0B4FHJV8F",
+      "title": "The Chronicles of Deltovia (The Very Genius Notebooks Book 1)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81T668k+BIL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07Q84NMNC",
+      "title": "Ms. Marvel: Metamorphosis (Ms. Marvel (2014-2015))",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91KWtOeEreL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B01N787GHY",
+      "title": "Have Yourself a Furry Little Christmas (Sesame Street)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/51YLhRiu4TL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B01MSWYNVH",
+      "title": "Beyonc\u00e9: R & B Superstar (Pop Culture Bios)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81MDxnwcvsL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B076DTB2HT",
+      "title": "Astronaut and Physicist Sally Ride (STEM Trailblazer Bios)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91tl+9+nHVL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07X5MVTC2",
+      "title": "Marvel Action Spider-Man (2018-2019) #7",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91QwwPwsHoL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00HNXC0T6",
+      "title": "Clowns and Dragons!: Book 3 (Tao, the Little Samurai)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81Dd8r4JJ7L.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B0145HP4VI",
+      "title": "Lockjaw and the Pet Avengers (Lockjaw and the Pet Avengers (2009))",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91x4cVfSGCL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00MBXUL6M",
+      "title": "I'm Undead and Hungry!: Meet a Zombie (Monster Buddies)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81q3VHEoP2L.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00FSRFMO4",
+      "title": "Avengers Assemble Vol. 3 (Avengers (1998-2004))",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91i5yOjtslS.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00WUNKR6M",
+      "title": "Marvel's Ant-Man Prelude (Marvel Ant-Man)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/71iOEAXCm9L.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B06XCXTV8Y",
+      "title": "Women of Marvel Vol. 2 (Women of Marvel (2010))",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91SynKs6vlL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00FATKQ46",
+      "title": "Dino-Wrestling (Dino-Sports)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91TnU2J0GmL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B06XMXJ7ZY",
+      "title": "Women of Marvel Vol. 1 (Women of Marvel (2010))",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81TGC1JoKGL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00796RR68",
+      "title": "1, 2, 3 Count with Me (Sesame Street)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/51OGF0+dg5L.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07XM96S9Q",
+      "title": "Marvel Action Spider-Man (2018-2019) #11",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/911NcO7dejL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07JHG4BXW",
+      "title": "Spidey: School's Out (Spidey: School's Out (2018))",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91syWaU5TDL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07NG76HBW",
+      "title": "Unicorn Bowling: Another Phoebe and Her Unicorn Adventure",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81tqHfKbrKL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00AAJQVHW",
+      "title": "Avengers Masterworks Vol. 1 (Avengers (1963-1996))",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81nEf247+CL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07LFMDH7S",
+      "title": "Captain Marvel: Earth's Mightiest Hero Vol. 1",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81C2-Ib4R-L.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00GIRTW9E",
+      "title": "My Crocodile Does Not Bite",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81oeik2exzL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B085SZ8LRD",
+      "title": "Camping with Unicorns: Another Phoebe and Her Unicorn Adventure",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81O1tVBdifL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B079VSMPT7",
+      "title": "Avengers & The Infinity Gauntlet (Avengers & The Infinity Gauntlet (2010))",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/A1VcN+p8d0L.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07X6KG5XL",
+      "title": "Marvel Action Spider-Man (2018-2019) #5",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91VMSsqMDuL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00EAROYTM",
+      "title": "Avengers Assemble Vol. 2 (Avengers (1998-2004))",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/A1bwQm-PX8L.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    }
+  ],
+  "lastPage": false
+}

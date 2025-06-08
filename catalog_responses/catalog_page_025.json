@@ -1,0 +1,757 @@
+{
+  "totalNumberOfResults": null,
+  "nextPageToken": "750",
+  "itemList": [
+    {
+      "itemId": "//amazon-book/B071K9GQ28",
+      "title": "Pingu's Bouncy Fun (Pingu)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81sey2+apXL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B09XWJ7V42",
+      "title": "Blippi's Treehouse - Pets",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81prmnFb29L.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B08F3BKTQ5",
+      "title": "Amari and the Night Brothers: the most magical children's fantasy series. Perfect for fans of Percy Jackson, Marvel, DC and Oneyeka! (Amari and the Night Brothers)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/811IpQFVdJL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B0BGYYCH4Z",
+      "title": "Blippi's Treehouse - Trains",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/8109vowQ2aL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B008NZF82E",
+      "title": "What Katy Did (Collins Classics)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/713mDdoD4fL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B012CAOKUQ",
+      "title": "Einstein Anderson: The Impossible Shrinking Machine and Other Cases (Einstein Anderson: Science Geek Book 1)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91PM-Al89bL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00DPZIC1G",
+      "title": "Elidor (Essential Modern Classics)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91QIl4H4YAL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00YYDJ3W0",
+      "title": "Alex Fitzgerald, TV Star",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81Lb5eQoTVL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00TUAYASY",
+      "title": "A Royal Disaster (The Princess Diaries Book 2)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91NI2ZJAaZL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B098M7192D",
+      "title": "Amari and the Great Game: The magical sequel to the New York Times bestseller AMARI AND THE NIGHT BROTHERS, new for 2022! (Amari and the Night Brothers)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/8158N8DA3qL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00DPZN3AG",
+      "title": "The Moon of Gomrath",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81Q1i-iMvHL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B019PIOJWW",
+      "title": "Harry Potter and the Goblet of Fire",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81YoazRCtBL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00O33V6HG",
+      "title": "The Cat Food Mystery: A Pet Club Story",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81a4GofxuSL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07CV3RFQT",
+      "title": "The Ice Monster: The award-winning children's book from multi-million bestseller author David Walliams",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81p1B1CuH6L.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B013WZRQK6",
+      "title": "Snake",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81sJsQhtdnL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07CLBR5SR",
+      "title": "How Winston Delivered Christmas: A Christmas Story in Twenty-Four-and-a-Half Chapters",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81wWRMYQSNL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B085VGFNHR",
+      "title": "Slime: The mega laugh-out-loud children's book from No. 1 bestselling author David Walliams.",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81VSwPgUqDL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B013WCW7SK",
+      "title": "Lancelot (Tales of King Arthur)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91OUWyVHY6L.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B003E1BGUU",
+      "title": "Stage Fright (Allie Finkle's Rules for Girls Book 4)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81Y9YMTNZZL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B000SEGZRK",
+      "title": "Harriet the Spy",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81Jlbm2wBaL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B08F3B8BM6",
+      "title": "Kensuke's Kingdom: The classic children's novel of adventure and survival, now a major movie animation.",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81KTyRws9pL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00YR90B7W",
+      "title": "Einstein Anderson: A Voyage to Outer Space & Other Cases (Einstein Anderson: Science Geek Book 4)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91w4n7ta42L.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B072R13HPG",
+      "title": "Pingu Goes Camping (Pingu)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/714n4VBRXCL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B08YMWBPZ5",
+      "title": "Bing's Halloween Party (Bing)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81FuSS9UUVL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B009D4SRL8",
+      "title": "How to Train Your Dragon: Meet the Dragons (I Can Read Book 2)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/51+jPhozjQL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B003B5M0PO",
+      "title": "War Horse: a children's First World War modern classic",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81VirtmlnGL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B010YOYJ30",
+      "title": "Danger! Earthquakes (SeeMore Readers)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81JS+YyxqaL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B009YBTVFG",
+      "title": "Castle in the Air: The enchanting fantasy adventure story perfect for children ages 9+",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81qbevMFbdL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07Q8CQD48",
+      "title": "The Fowl Twins",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/812edPNY18L.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00AAJQVBS",
+      "title": "Amazing Spider-Man Masterworks Vol. 1 (Marvel Masterworks)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/719PrCpl-LL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    }
+  ],
+  "lastPage": false
+}

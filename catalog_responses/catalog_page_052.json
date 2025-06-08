@@ -1,0 +1,757 @@
+{
+  "totalNumberOfResults": null,
+  "nextPageToken": "1560",
+  "itemList": [
+    {
+      "itemId": "//amazon-book/B07YN46NST",
+      "title": "Jane Eyre Graphic Novel (Illustrated Classics)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81CWX3eb4tL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B01N9GVSJY",
+      "title": "Pyramids (National Geographic Kids Readers, Level 1)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81+Xd6SnTlL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B079DX1W5X",
+      "title": "The Great Easter Race!: A Springtime Sesame Street Story with Elmo, Cookie Monster, Big Bird and Friends! (Easter Basket Stuffers for Toddlers and Kids) (Sesame Street Scribbles Book 0)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/51ADVrNA0WL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B009093K7W",
+      "title": "Madagascar: Born to Be Wild",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/51GXTBbdMsL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00ESEEGXG",
+      "title": "Show Me Polar Animals (My First Picture Encyclopedias)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81mKiv8m6HL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B075MSH3YR",
+      "title": "Guardians of the Galaxy: An Awesome Mix (Marvel Universe Guardians of the Galaxy (2015-2017))",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91f4NOs4sXL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B085L9N3TW",
+      "title": "What We'll Build: The breathtaking illustrated picture book for children, from the creator of international bestseller Here We Are: Plans For Our Together Future",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81U+I09b3EL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B007SWU31Y",
+      "title": "Brain Quest Preschool Q&A Cards: 300 Questions and Answers to Get a Smart Start. Curriculum-based! Teacher-approved! (Brain Quest Decks)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/71SDFvykvsL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00TEC30NY",
+      "title": "Ms. Marvel Vol. 2: Generation Why (Ms. Marvel Series)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91oGi-ArE8L.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07YN52M14",
+      "title": "Kidnapped Graphic Novel (Illustrated Classics)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81Wz4hDamIL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07BMBM6PP",
+      "title": "Brand New School, Brave New Ruby (Ruby and the Booker Boys #1)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81BqGZbDJML.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07VNTZJQ1",
+      "title": "Shuri Vol. 2: 24/7 Vibranium (Shuri (2018-2019))",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91R30UTVBHL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07YGX7Z39",
+      "title": "Marvel Adventures Thor And The Avengers (Marvel Adventures: Super Heroes (2008-2010))",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91IwdrQgUfL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B06ZXZ96XT",
+      "title": "Marvel Universe Guardians of the Galaxy Vol. 5 (Marvel Universe Guardians of the Galaxy (2015-2017))",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91jr2hoELvL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07YN3PZJG",
+      "title": "The Prince and the Pauper Graphic Novel (Illustrated Classics)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81GUjKfXiCL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07YZF1SW6",
+      "title": "Around the World in Eighty Days Graphic Novel (Illustrated Classics)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81+nQurdauL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B08M6LR72N",
+      "title": "Dessert Island",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/71zb3T4nqPL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B004Y6J6XS",
+      "title": "Alien Expedition (Alien Agent Book 3)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81d2QtbiA1L.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07KPM4CLC",
+      "title": "Counting on Katherine: How Katherine Johnson Put Astronauts on the Moon",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81K2Z9Q4UNL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07YNWX43X",
+      "title": "The Time Machine Graphic Novel (Illustrated Classics)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81JqMm2al7L.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B077ZG3W16",
+      "title": "Black Panther Adventures",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/A1FqXrav8iL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00HNXBNMQ",
+      "title": "Nightmare on Zombie Island: Book 5 (Twisted Journeys \u00ae)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91mhNW7VJML.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00GIRTIP2",
+      "title": "The Planet of the Overhearer (The Little Prince Book 7)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81tbYHBADZL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B0785VKR66",
+      "title": "Guardians of the Galaxy: Telltale Games (Guardians of the Galaxy: Telltale Games (2017))",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91dAisbh-rL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B007SWU2KQ",
+      "title": "Brain Quest Kindergarten, revised 4th edition: 300 Questions and Answers to Get a Smart Start (Brain Quest Decks)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81wQ08v6esL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07BX46XMZ",
+      "title": "The American Indian Rights Movement (Movements That Matter (Alternator Books \u00ae ))",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91auRFLATrL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B015D17DVE",
+      "title": "Still William (Just William series Book 5)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91RKbl7Z--L.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07FP42VFK",
+      "title": "Marvel Adventures Thor: Bringers Of The Storm (Marvel Adventures: Super Heroes (2008-2010))",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91HAMO-9wNL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B076ZTC292",
+      "title": "Ancient Egypt (National Geographic Kids Readers, Level 3)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81yQpmuSgCL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B011A1T73S",
+      "title": "Amazing Spider-Man Masterworks Vol. 10 (Amazing Spider-Man (1963-1998))",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91OF9b8BhuL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    }
+  ],
+  "lastPage": false
+}

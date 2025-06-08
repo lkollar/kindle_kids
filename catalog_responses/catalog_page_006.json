@@ -1,0 +1,757 @@
+{
+  "totalNumberOfResults": null,
+  "nextPageToken": "180",
+  "itemList": [
+    {
+      "itemId": "//amazon-book/B07P37YL7X",
+      "title": "The Naughtiest Unicorn and the School Disco (The Naughtiest Unicorn series)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81CyTv4iltL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07CLBQYLF",
+      "title": "Snowglobe",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91NfM0bSS-L.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00DZQYH0K",
+      "title": "Goth Girl and the Ghost of a Mouse",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91d8fIkuATL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B0753J2F7N",
+      "title": "National Geographic Kids Readers: Alligators and Crocodiles (National Geographic Kids Readers)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91jEiv+1yFL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B082K9B4QY",
+      "title": "The Naughtiest Unicorn on the Beach: the perfect summer holiday book for children! (The Naughtiest Unicorn series)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/815aJSxoIaL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07D2JRLNQ",
+      "title": "You're Called What?",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/917amKChXqL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00CWE8P40",
+      "title": "Ready to Wear (Sew Zoey Book 1)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81xto9F4WiL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B008RWXQEK",
+      "title": "Greeks (Sir Tony Robinson's Weird World of Wonders Book 5)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/917fae8wbhL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00JD3PRBM",
+      "title": "Feel the Fear (Ruby Redfort, Book 4)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81h-8HZ5BcL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B008RWXPT6",
+      "title": "British (Sir Tony Robinson's Weird World of Wonders Book 3)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91kvD7v534L.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00JD3X07K",
+      "title": "Skulduggery Pleasant (9) - The Dying of the Light (Skulduggery Pleasant series)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81tP96Xfq2L.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B004D39PJM",
+      "title": "The Auditions (Pony Club Rivals, Book 1)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81MOy76L3eL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00CP4I4H0",
+      "title": "Space: The Whole Whizz-Bang Story (Science Sorted Book 1)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91abegJkkFL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B0728G98L9",
+      "title": "The Treatment: The gripping twist-filled YA thriller from the million copy Sunday Times bestselling author of The Escape (172 POCHE)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91R7J+s0kBL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07SRR5663",
+      "title": "The Kid Who Came From Space: The thrilling space adventure story perfect for children ages 10+",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81GxfjLW3UL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B013XUHUE2",
+      "title": "Head Over Heels: The bestselling YA series - now a major Netflix series (Geek Girl, Book 5)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81qQse+ltAL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B004W3FIQW",
+      "title": "The Emerald Atlas:The Books of Beginning 1",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91PYJ6yzRQL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00Y82V960",
+      "title": "Big Nate Blasts Off",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91miY0R7VuL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07CPFXVTZ",
+      "title": "Pages & Co.: Tilly and the Bookwanderers: The first in this enchanting illustrated series for children, from the best-loved author of The Chronicles of Whetherwhy (Pages & Co., Book 1)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81OMd2yK1oL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00CIVGJK4",
+      "title": "The Shark in the Dark",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/A1IVzwDB2cL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "AVAILABLE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "AVAILABLE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": true
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B0088NCNOM",
+      "title": "When Hitler Stole Pink Rabbit: A classic and unforgettable children's book from the author of The Tiger Who Came To Tea (Essential Modern Classics)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/718LzWnpPrL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B00S9TZCQG",
+      "title": "The 13-Storey Treehouse (The Treehouse Book 1)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91lFYUtYYKL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B007WTR5YQ",
+      "title": "Romans (Sir Tony Robinson's Weird World of Wonders Book 6)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91aLA5E0j1L.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B019WSD106",
+      "title": "The 65-Storey Treehouse: The Treehouse Books 05",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/A1B-2lVbfdL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B07QXSC6V4",
+      "title": "Shadows of Winterspell",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81aTeBYhdiL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B002RI9QWQ",
+      "title": "Best Friends! (The Sleepover Club)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91zDi20IdVL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B01D4KPTZI",
+      "title": "Blink and You Die (Ruby Redfort, Book 6)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/81HH4eqnPbL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B008CBD2DG",
+      "title": "Hit the Beach! (The Sleepover Club)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91Re3V-X6FL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B008CBDJL6",
+      "title": "Trick or Treat (The Sleepover Club)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/91TRcnv+UJL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    },
+    {
+      "itemId": "//amazon-book/B002RI93RE",
+      "title": "Comet and the Champion's Cup (Pony Club Secrets, Book 5)",
+      "thumbnailUrl": "https://images-na.ssl-images-amazon.com/images/I/716rc9mBiIL.jpg",
+      "childDirectedIdAccessMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": "OUTSIDE_AGE_RANGE",
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": "OUTSIDE_AGE_RANGE"
+      },
+      "childDirectedIdAccessStatusMap": {
+        "amzn1.account.AHXFGYAZMMBCB7FDM3SNJOI52EYA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        },
+        "amzn1.account.AGPDCRWM54JBPSHDXVTVSVCQFODA": {
+          "isShared": false,
+          "isBlocked": false,
+          "isActionable": true,
+          "isInAgeRange": false
+        }
+      },
+      "activityCategory": "EBOOK",
+      "weblabId": null
+    }
+  ],
+  "lastPage": false
+}
